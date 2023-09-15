@@ -1,7 +1,7 @@
 ## Hi friends, I'm Tristan 👋
-- Computer Science Junior at FAU
-- Learning and growing everyday in Python and C++
-- Programming, chess, basketball, and more
+- 📏 Computer Science Junior at FAU
+- 📚 Learning and growing everyday in Python and C++
+- 💬 Programming, chess, basketball, and more
 - 📫 For further contact and information about myself reach me at...
   - [Website](https://tristanbaldeo.github.io/)
   - [LinkedIn](https://www.linkedin.com/in/tristan-baldeo-48a004275/)
@@ -11,18 +11,3 @@
 ## Projects 📋
 - [Real Worth](https://github.com/akukerang/real-worth) <br/>
 Anonymous salary sharing mobile app used in order to reduce income equality.
-
-<!--
-**tristanbaldeo/tristanbaldeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
