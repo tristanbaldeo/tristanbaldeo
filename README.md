@@ -2,9 +2,9 @@
 - Computer Science Junior at FAU
 - Learning and growing everyday in Python and C++
 - 📫 For further contact and information about myself reach me at...
-  - [Website]
-  - [LinkedIn]
-  - [Discord]
+  - [Website](https://tristanbaldeo.github.io/)
+  - [LinkedIn](https://www.linkedin.com/in/tristan-baldeo-48a004275/)
+  - Discord - tristanbb
   - tdotbaldeo@gmail.com
 
 ### Projects 📋
