@@ -11,3 +11,6 @@
 ## Projects 📋
 - [Real Worth](https://github.com/akukerang/real-worth) <br/>
 Anonymous salary sharing mobile app used in order to reduce income equality.
+
+- [OwlBeSure](https://github.com/akukerang/OwlBeSure) <br/>
+Insurance TikTok generation along with ChatGPT chat implemented for further questions.
