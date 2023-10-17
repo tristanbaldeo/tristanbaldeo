@@ -9,6 +9,9 @@
   - tdotbaldeo@gmail.com
 
 ## Projects 📋
+- [TwitchStitch](https://github.com/tristanbaldeo/TwitchStitch) <br/>
+Automatic Twitch clip compilation generator with customizable video options using Twitch API. 
+
 - [Real Worth](https://github.com/akukerang/real-worth) <br/>
 Anonymous salary sharing mobile app used in order to reduce income equality.
 
@@ -17,4 +20,3 @@ ShellHacks 2023: Insurance TikTok generation along with ChatGPT API chat impleme
 
 - [GuideGuru](https://github.com/akukerang/GuideGuru) <br/>
 KnightHacks 2023: Excursion planner based on interests and occasions of choice using Google Maps and ChatGPT API.
-
